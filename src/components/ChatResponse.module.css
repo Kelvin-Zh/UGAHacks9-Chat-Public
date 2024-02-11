@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest Riot');
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+}
+
+.message {
+    width: fit-content;
+    max-width: 60%;
+    background-color: #3b97ff ;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 0 0 10px 10px;
+    box-shadow: -5px 5px 0px #3e3e3e; 
+    word-wrap: break-word;
+    font-family: 'Protest Riot', sans-serif;
+    color:white;
+}

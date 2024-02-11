@@ -1,0 +1,30 @@
+:root {
+  /* Variables */
+}
+
+
+/* Start CSS Reset */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* End CSS Reset */
+
+body {
+  background-image: url(https://www.shutterstock.com/shutterstock/photos/2127155444/display_1500/stock-vector-colorful-comic-scene-background-with-city-silhouette-2127155444.jpg);
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
